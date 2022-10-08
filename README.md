@@ -42,7 +42,8 @@ http://127.0.0.1:8000/docs
 ![image](https://user-images.githubusercontent.com/55380019/194704901-d3d40202-1814-43d3-b8dd-3e4e16ff51b5.png)
 
 # Note
-※バリデーションはできてません
+- Windows環境下でのみ動作確認済み
+- バリデーションはできてません
 
 # Author
 https://github.com/Ryo0615
