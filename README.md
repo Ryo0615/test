@@ -6,6 +6,13 @@
 |-----|-----|
 | 1-3 | 4-5 |
 
+##### 出力フォーマット
+|Name|Description|
+|---|---|
+|pred|ユーザ満足度の分類結果(High / Low)|
+|low_satisfaction_prob|ユーザ満足度Lowの予測確率(0 ~ 1)|
+|high_satisfaction_prob|ユーザ満足度Highの予測確率(0 ~ 1)|
+
 # Installation
 ```
 pip install uvicorn
