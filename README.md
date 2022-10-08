@@ -46,5 +46,5 @@ http://127.0.0.1:8000/docs
 - バリデーションはできてません
 
 # Author
-* Ryo Hirai
+Ryo Hirai
 
