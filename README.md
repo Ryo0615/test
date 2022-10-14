@@ -18,6 +18,7 @@
 pip install uvicorn
 pip install fastapi
 pip install python-multipart
+pip install lightgbm
 ```
 # Usage
 #### 1.
